@@ -38,3 +38,7 @@ INFINITY SCREAM es una app de reconocimiento de voz con la cual se puede mandar 
   2. Adrian	Vargas Argote
   3. Ameli	Aguilar
   4. Cristian	Huarca Mollo
+
+## Prototipo
+
+Descarga el documento llamando aliccion (1).apk en tu celular Android y ejecutalo.
